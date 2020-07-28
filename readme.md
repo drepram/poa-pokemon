@@ -1,4 +1,6 @@
 # POA Pokemon
+**2020 update: I turned-down the intership offer, and I turned off the bot. It should work fine if one were to run it though.**
+
 > Profile of a Pokemon
 
 This bot is hosted on Telegram, chat with it on [https://t.me/poa_pokemon_bot](https://t.me/poa_pokemon_bot).
