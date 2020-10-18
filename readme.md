@@ -24,4 +24,4 @@ node index.js # i would suggest using nodemon instead
 
 ### License
 
-Where otherwhise noted, this project is licensed under the MIT license.
+Where otherwhise noted, this project is licensed under [the MIT license](https://opensource.org/licenses/MIT).
